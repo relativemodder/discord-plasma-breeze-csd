@@ -1,10 +1,14 @@
 /* MIN BUTTON */
 #app-mount > div.appAsidePanelWrapper_a3002d > div > div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.bar_c38106.theme-dark.images-dark > div.trailing_c38106 > div.winButtons_c38106.winButtonsWithDivider_c38106 > div:nth-child(1) > svg,
-#app-mount > div.bar_c38106.systemBar_c38106.fixed_c38106.show_c38106 > div > div > div:nth-child(1) > svg {
+#app-mount > div.a3002d7de5be5280-appAsidePanelWrapper > div > div.a3002d7de5be5280-app > div > div._960e4207cea8323e-layers._160d8e55254637e5-layers > div > div > div > div.c38106a3f0c3ca76-bar.theme-dark.images-dark > div.c38106a3f0c3ca76-trailing > div.c38106a3f0c3ca76-winButtons.c38106a3f0c3ca76-winButtonsWithDivider > div:nth-child(1) > svg,
+#app-mount > div.bar_c38106.systemBar_c38106.fixed_c38106.show_c38106 > div > div > div:nth-child(1) > svg,
+#app-mount > div.c38106a3f0c3ca76-bar.c38106a3f0c3ca76-systemBar.c38106a3f0c3ca76-fixed.c38106a3f0c3ca76-show > div > div > div:nth-child(1) > svg {
     display: none;
 }
 
 #app-mount > div.appAsidePanelWrapper_a3002d > div > div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.bar_c38106.theme-dark.images-dark > div.trailing_c38106 > div.winButtons_c38106.winButtonsWithDivider_c38106 > div:nth-child(1)::before,
+#app-mount > div.c38106a3f0c3ca76-bar.c38106a3f0c3ca76-systemBar.c38106a3f0c3ca76-fixed.c38106a3f0c3ca76-show > div > div > div:nth-child(1)::before,
+#app-mount > div.a3002d7de5be5280-appAsidePanelWrapper > div > div.a3002d7de5be5280-app > div > div._960e4207cea8323e-layers._160d8e55254637e5-layers > div > div > div > div.c38106a3f0c3ca76-bar.theme-dark.images-dark > div.c38106a3f0c3ca76-trailing > div.c38106a3f0c3ca76-winButtons.c38106a3f0c3ca76-winButtonsWithDivider > div:nth-child(1),
 #app-mount > div.bar_c38106.systemBar_c38106.fixed_c38106.show_c38106 > div > div > div:nth-child(1)::before {
     content: '';
     display: inline-block;
@@ -18,12 +22,16 @@
 
 /* MAX BUTTON */
 #app-mount > div.appAsidePanelWrapper_a3002d > div > div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.bar_c38106.theme-dark.images-dark > div.trailing_c38106 > div.winButtons_c38106.winButtonsWithDivider_c38106 > div:nth-child(2) > svg,
-#app-mount > div.bar_c38106.systemBar_c38106.fixed_c38106.show_c38106 > div > div > div:nth-child(2) > svg {
+#app-mount > div.a3002d7de5be5280-appAsidePanelWrapper > div > div.a3002d7de5be5280-app > div > div._960e4207cea8323e-layers._160d8e55254637e5-layers > div > div > div > div.c38106a3f0c3ca76-bar.theme-dark.images-dark > div.c38106a3f0c3ca76-trailing > div.c38106a3f0c3ca76-winButtons.c38106a3f0c3ca76-winButtonsWithDivider > div:nth-child(2) > svg,
+#app-mount > div.bar_c38106.systemBar_c38106.fixed_c38106.show_c38106 > div > div > div:nth-child(2) > svg,
+#app-mount > div.c38106a3f0c3ca76-bar.c38106a3f0c3ca76-systemBar.c38106a3f0c3ca76-fixed.c38106a3f0c3ca76-show > div > div > div:nth-child(2) > svg {
     display: none;
 }
 
 #app-mount > div.appAsidePanelWrapper_a3002d > div > div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.bar_c38106.theme-dark.images-dark > div.trailing_c38106 > div.winButtons_c38106.winButtonsWithDivider_c38106 > div:nth-child(2)::before,
-#app-mount > div.bar_c38106.systemBar_c38106.fixed_c38106.show_c38106 > div > div > div:nth-child(2)::before {
+#app-mount > div.a3002d7de5be5280-appAsidePanelWrapper > div > div.a3002d7de5be5280-app > div > div._960e4207cea8323e-layers._160d8e55254637e5-layers > div > div > div > div.c38106a3f0c3ca76-bar.theme-dark.images-dark > div.c38106a3f0c3ca76-trailing > div.c38106a3f0c3ca76-winButtons.c38106a3f0c3ca76-winButtonsWithDivider > div:nth-child(2)::before,
+#app-mount > div.bar_c38106.systemBar_c38106.fixed_c38106.show_c38106 > div > div > div:nth-child(2)::before,
+#app-mount > div.c38106a3f0c3ca76-bar.c38106a3f0c3ca76-systemBar.c38106a3f0c3ca76-fixed.c38106a3f0c3ca76-show > div > div > div:nth-child(2)::before {
     content: '';
     display: inline-block;
     width: 24px;
@@ -35,11 +43,15 @@
 
 
 /* CLOSE BUTTON */
-.winButtonClose_c38106.winButton_c38106 > svg {
+.winButtonClose_c38106.winButton_c38106 > svg,
+#app-mount > div.a3002d7de5be5280-appAsidePanelWrapper > div > div.a3002d7de5be5280-app > div > div._960e4207cea8323e-layers._160d8e55254637e5-layers > div > div > div > div.c38106a3f0c3ca76-bar.theme-dark.images-dark > div.c38106a3f0c3ca76-trailing > div.c38106a3f0c3ca76-winButtons.c38106a3f0c3ca76-winButtonsWithDivider > div.c38106a3f0c3ca76-winButton.c38106a3f0c3ca76-winButtonClose.c38106a3f0c3ca76-winButton > svg,
+#app-mount > div.c38106a3f0c3ca76-bar.c38106a3f0c3ca76-systemBar.c38106a3f0c3ca76-fixed.c38106a3f0c3ca76-show > div > div > div.c38106a3f0c3ca76-winButton.c38106a3f0c3ca76-winButtonClose.c38106a3f0c3ca76-winButton > svg {
     display: none;
 }
 
-.winButtonClose_c38106.winButton_c38106::before {
+.winButtonClose_c38106.winButton_c38106::before,
+#app-mount > div.c38106a3f0c3ca76-bar.c38106a3f0c3ca76-systemBar.c38106a3f0c3ca76-fixed.c38106a3f0c3ca76-show > div > div > div.c38106a3f0c3ca76-winButton.c38106a3f0c3ca76-winButtonClose.c38106a3f0c3ca76-winButton::before,
+#app-mount > div.a3002d7de5be5280-appAsidePanelWrapper > div > div.a3002d7de5be5280-app > div > div._960e4207cea8323e-layers._160d8e55254637e5-layers > div > div > div > div.c38106a3f0c3ca76-bar.theme-dark.images-dark > div.c38106a3f0c3ca76-trailing > div.c38106a3f0c3ca76-winButtons.c38106a3f0c3ca76-winButtonsWithDivider > div.c38106a3f0c3ca76-winButton.c38106a3f0c3ca76-winButtonClose.c38106a3f0c3ca76-winButton::before {
     content: '';
     display: inline-block;
     width: 20px;
